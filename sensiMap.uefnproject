@@ -1,0 +1,43 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "sensiMap",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "28.01",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "sensiMap",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "b085788a-41ab-9540-f33f-0d87699acbd8",
+		"projectVersePath": "",
+		"modules":
+		{
+			"sensiMap": "a61e6bd0-44cf-2455-a694-f98fae44f576"
+		}
+	}
+}
